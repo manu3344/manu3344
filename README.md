@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **manualvaradoibarr@gmail.com**
 
-- 📄 Know about my experiences [Im currently a student, I´ve worked on many projects during my classes. One of them is a discussion forum called ¨Manga Marauders¨, this is a website in which people can create, read, update and delete many interesting topics like movies, series,anime and many others.](Im currently a student, I´ve worked on many projects during my classes. One of them is a discussion forum called ¨Manga Marauders¨, this is a website in which people can create, read, update and delete many interesting topics like movies, series,anime and many others.)
+- 📄 Know about my experiences: Im currently a student, I´ve worked on many projects during my classes. One of them is a discussion forum called ¨Manga Marauders¨, this is a website in which people can create, read, update and delete many interesting topics like movies, series,anime and many others.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
