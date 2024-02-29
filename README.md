@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Manuel Alvarado</h1>
 <h3 align="center">A passionate developer from México!</h3>
-<img align="center" alt="coding" width="300" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47bm7wtv79l1nspre03fby7nr6oixcoi9slk4gwq0z&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<img justifyContent="center" alignItems="centet" alt="coding" width="300" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47bm7wtv79l1nspre03fby7nr6oixcoi9slk4gwq0z&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manu3344&label=Profile%20views&color=0e75b6&style=flat" alt="manu3344" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manu3344" alt="manu3344" /></a> </p>
